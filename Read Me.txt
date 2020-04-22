@@ -1,0 +1,7 @@
+How to run the code:
+1.Download the folder
+2. Click shift & right-click on the folder and run the terminal
+3. Write : streamlit run name_of_file.py
+ 
+example:
+  streamlit run Map_Data_Model_2.py  or   streamlit run Map_Data_Model_1.py
